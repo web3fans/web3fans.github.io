@@ -6,4 +6,4 @@
 
 ###### ***wechat：pixelstalk***
 
-###### ***email：notefullstack@google.com***
+###### ***email：notefullstack@gmail.com***
