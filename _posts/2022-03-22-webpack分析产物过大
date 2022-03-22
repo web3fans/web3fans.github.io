@@ -1,0 +1,4 @@
+使用插件：
+webpack-bundle-analyzer
+
+通过插件来分析引用的各个第三方包体积大小， 将一些非必要构建进去的第三方包通过 external 抽离出去， 以cdn 的方式引入项目，如 lodash， dayjs，qs， 等这种纯的js库 。（避免了对这些包的构建）
