@@ -39,20 +39,18 @@ post:
   wordcount: Words count in article
   min2read: Reading time
   copyright:
-      author: Post author
-      link: Post link
-      license_title: Copyright Notice
-      license_content: 'All articles in this blog are licensed under
-        <a href="%s" rel="external nofollow" target="_blank">%s</a> unless stating additionally.'
-
-
+    author: Post author
+    link: Post link
+    license_title: Copyright Notice
+    license_content: 'All articles in this blog are licensed under
+      <a href="%s" rel="external nofollow" target="_blank">%s</a> unless stating additionally.'
 
 page:
   totally: Totally
   tags: tags
 
 footer:
-  powered: "Powered by %s"
+  powered: "沪ICP备19044437号-1"
   theme: Theme
 
 counter:
@@ -91,6 +89,6 @@ cheers:
 keep_on: Keep on posting.
 
 symbol:
-  comma: ', '
-  period: '. '
-  colon: ':'
+  comma: ", "
+  period: ". "
+  colon: ":"
