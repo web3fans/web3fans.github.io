@@ -50,7 +50,7 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %s"
+  powered: "沪ICP备19044437号-1"
   theme: Theme
 
 counter:
@@ -89,6 +89,6 @@ cheers:
 keep_on: Keep on posting.
 
 symbol:
-  comma: ', '
-  period: '. '
-  colon: ':'
+  comma: ", "
+  period: ". "
+  colon: ":"

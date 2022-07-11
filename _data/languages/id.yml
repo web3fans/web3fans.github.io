@@ -44,7 +44,7 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %s"
+  powered: "沪ICP备19044437号-1"
   theme: Tema
 
 counter:
@@ -80,6 +80,6 @@ cheers:
 keep_on: Terus Posting.
 
 symbol:
-  comma: ', '
-  period: '. '
-  colon: ':'
+  comma: ", "
+  period: ". "
+  colon: ":"

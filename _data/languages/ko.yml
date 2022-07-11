@@ -44,7 +44,7 @@ page:
   tags: 태그
 
 footer:
-  powered: "Powered by %s"
+  powered: "P沪ICP备19044437号-1"
   theme: Theme
 
 counter:
@@ -80,6 +80,6 @@ cheers:
 keep_on: 포스트를 마저 작성하세요
 
 symbol:
-  comma: ', '
-  period: '. '
-  colon: ':'
+  comma: ", "
+  period: ". "
+  colon: ":"

@@ -44,7 +44,7 @@ page:
   tags: タグ
 
 footer:
-  powered: "Powered by %s"
+  powered: "沪ICP备19044437号-1"
   theme: Theme
 
 counter:
@@ -80,6 +80,6 @@ cheers:
 keep_on: もっと書こう！
 
 symbol:
-  comma: ', '
-  period: '. '
-  colon: ':'
+  comma: ", "
+  period: ". "
+  colon: ":"
